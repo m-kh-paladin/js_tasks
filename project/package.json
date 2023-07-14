@@ -1,0 +1,16 @@
+{
+ "name": "project",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "lint": "eslint ./"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "devDependencies": {
+  "eslint": "^8.45.0",
+  "prettier": "3.0.0"
+ }
+}
